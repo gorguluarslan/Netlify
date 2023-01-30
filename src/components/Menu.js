@@ -20,7 +20,7 @@ const Menu = () => {
         </li>
 
         <li>
-          <Link to="users">Users</Link>
+          <Link to="users">Kullanıcılar</Link>
         </li>
 
         <li>
